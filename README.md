@@ -1,5 +1,7 @@
 # Ankit ki Shaadi
 
+**[Open the live wedding card](https://paylotparimal.github.io/ankit-ki-shaadi/)**
+
 A playful interactive wedding invitation with a mystery bride reveal, funny RSVP replies, confetti, and optional baraat beats.
 
 ## Preview
